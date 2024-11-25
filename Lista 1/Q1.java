@@ -9,5 +9,7 @@ public class Q1{
 
         System.out.println("Soma como Double: "+ (x + y));
         System.out.println("Soma como Inteiro: "+ (int) (x + y));
+
+        scanner.close();
     }
 }
