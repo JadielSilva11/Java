@@ -50,5 +50,7 @@ public class Q3 {
                 System.out.println("A segunda pessoa e a mais nova!!");
             }
         }
+
+        scanner.close();
     }
 }
