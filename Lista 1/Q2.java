@@ -28,5 +28,7 @@ public class Q2 {
                 System.out.println("Voce esta reprovado!!");
                 System.out.println("Sua media: "+media);
             }
+
+            scanner.close();
     }
 }
